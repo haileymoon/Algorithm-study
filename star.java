@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class second_practice_star {
+class second_practice_star {
     public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     int num = scanner.nextInt(); 

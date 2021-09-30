@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class second_practice_star_reverse {
+class second_practice_star_reverse {
     public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     int num = scanner.nextInt(); 
