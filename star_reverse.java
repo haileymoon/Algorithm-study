@@ -14,5 +14,5 @@ class second_practice_star_reverse {
         System.out.println();
     }
     scanner.close();
-    }
+    } 
 }
