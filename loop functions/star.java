@@ -1,6 +1,8 @@
 import java.util.Scanner;
-
-class second_practice_star {
+/***
+   # 2438번
+***/
+class star {
     public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     int num = scanner.nextInt(); 
