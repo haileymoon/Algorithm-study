@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 /**
+ * #2562 번
  * max_and_index
  */
 public class max_and_index {
