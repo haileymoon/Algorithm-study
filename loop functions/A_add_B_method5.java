@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /***
-   # 10952번
+ * # 10952번
 ***/
 class A_add_B_method5{
     public static void main(String[] args) {

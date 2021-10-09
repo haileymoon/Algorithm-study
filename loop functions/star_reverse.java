@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /***
-    #2439 번
+ * #2439 번
 ***/
 
 class star_reverse {

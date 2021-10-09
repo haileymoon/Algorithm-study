@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /***
-   # 2438번
+ * # 2438번
 ***/
 class star {
     public static void main(String[] args) {
